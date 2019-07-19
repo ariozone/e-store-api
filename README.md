@@ -1,1 +1,1 @@
-# pig-e-strore-api
+# pig-e-store-api
